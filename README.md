@@ -1,2 +1,2 @@
-# notebase-issues
-Issues for the Notebase web app
+# Notebase Issues
+Issues for the Notebase web app.
